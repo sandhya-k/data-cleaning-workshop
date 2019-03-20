@@ -6,7 +6,9 @@ Where: IRE Chicago meetup
 Note: This class is adapted from the Investigative Reporters and Editors CARwash class and includes some of the instructions they've shared for the class.
 
 ----
-Description: Dirty data lurk everywhere. We'll walk through some integrity checks to help diagnose problems with your data and learn how to deal with some of the most common problems, including standardizing misspelled names. This session is good for: People with some experience working with data in columns and rows, in spreadsheets or database managers.
+Description: Dirty data lurk everywhere. We'll walk through some integrity checks to help diagnose problems with your data and learn how to deal with some of the most common problems, including standardizing misspelled names. 
+
+This session is good for: People with some experience working with data in columns and rows, in spreadsheets or database managers.
 
 Objectives: Practice using a typical data cleaning workflow in Excel, including filtering and pivoting to perform integrity checks to find misspellings, nonstandard values, etc.
 
