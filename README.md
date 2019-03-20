@@ -9,9 +9,8 @@ Description: Dirty data lurk everywhere. We'll walk through some integrity check
 
 Objectives: Practice using a typical data cleaning workflow in Excel, including filtering and pivoting to perform integrity checks to find misspellings, nonstandard values, etc.
 
-Data for this workshop is here: [http://bit.ly/2OkpjM8](http://bit.ly/2OkpjM8) 
-    - file name: `data-cleaning-IRE` -- we'll be using a spreadsheet that I've made with lots of data problems
-    - file name: `ildebtor.xslx` -- Child support orders from Illinois
+Data for this workshop is here: [http://bit.ly/2OkpjM8](http://bit.ly/2OkpjM8) - file name: `data-cleaning-IRE` -- we'll be using a spreadsheet that I've made with lots of data problems
+- file name: `ildebtor.xslx` -- Child support orders from Illinois
 
 Some useful resources: 
 - [Structuring your data](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/)
