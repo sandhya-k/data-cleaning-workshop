@@ -3,7 +3,7 @@ When: March 20,2019
 
 Where: IRE Chicago meetup
 
-Note: This class is adapted from the Investigative Reporters and Editors CARwash class and includes some of the instructions they've shared for the class.
+Note: This class is adapted from the [Investigative Reporters and Editors](https://www.ire.org/) CARwash class and includes some of the instructions they've shared for the class.
 
 ----
 Description: Dirty data lurk everywhere. We'll walk through some integrity checks to help diagnose problems with your data and learn how to deal with some of the most common problems, including standardizing misspelled names. 
@@ -22,6 +22,7 @@ Data cleaning steps for the `data-cleaning-IRE` file:
 - Example header worksheet is `dirty-data-headers`.
 - Let's talk about colors! See the `example-color` worksheet.
 - What about dates? See the `dates-cleaning` worksheet for the different ways dates can be formatted. 
+Note: Sometimes the messiness is very subtle! This data serves as an example of some of the many things that can go wrong in your data. 
 
 Data cleaning steps for the `ildebtor` file:
 1.  Make a copy of the original file and leave the data untouched. Keep this file as a reference. Create a data diary and a data dictionary. A data diary is a record of every step you've taken to clean the data and analyze it. The data dictionary is a reference file which will explain what the headers mean, along with any codes. This will be helpful in recreating your work. 
