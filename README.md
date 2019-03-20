@@ -1,7 +1,6 @@
 # Data Cleaning Workshop
-Where: IRE Chicago meetup
-
 Date: March 20,2019
+Where: IRE Chicago meetup
 
 Note: This class is adapted from the Investigative Reporters and Editors CARwash class and includes some of the instructions they've shared for the class.
 
@@ -12,7 +11,7 @@ Objectives: Practice using a typical data cleaning workflow in Excel, including 
 
 Data for this workshop is here: [http://bit.ly/2OkpjM8](http://bit.ly/2OkpjM8) 
     - file name: `data-cleaning-IRE` -- we'll be using a spreadsheet that I've made with lots of data problems
-    * file name: `ildebtor.xslx` -- Child support orders from Illinois
+    - file name: `ildebtor.xslx` -- Child support orders from Illinois
 
 Some useful resources: 
 - [Structuring your data](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/)
