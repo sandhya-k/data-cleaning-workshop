@@ -16,7 +16,7 @@ Data for this workshop is here: [http://bit.ly/2OkpjM8](http://bit.ly/2OkpjM8)
 - `ildebtor.xslx` -- Child support orders from Illinois
 
 Data cleaning steps for the `data-cleaning-IRE` file:
-- For the `example-bad-worksheet`. Look at the dates, dollar amounts, city names. What is wrong with these files?
+- For the `example-dirty-data`. Look at the dates, dollar amounts, city names. What is wrong with these files?
 - Let's talk about colors! See the `example-color` worksheet.
 - What about dates? See the `dates-cleaning` worksheet for the different ways dates can be formatted. 
 
