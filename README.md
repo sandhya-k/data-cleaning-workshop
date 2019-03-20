@@ -1,5 +1,5 @@
 # Data Cleaning Workshop
-Date: March 20,2019
+When: March 20,2019
 
 Where: IRE Chicago meetup
 
@@ -24,7 +24,7 @@ Data cleaning steps for the `data-cleaning-IRE` file:
 - What about dates? See the `dates-cleaning` worksheet for the different ways dates can be formatted. 
 
 Data cleaning steps for the `ildebtor` file:
-1. make a copy of the original file and leave the data untouched. Keep this file as a reference. Create a data diary and a data dictionary for the names of the headers. This will be helpful in recreating your work. 
+1.  Make a copy of the original file and leave the data untouched. Keep this file as a reference. Create a data diary and a data dictionary. A data diary is a record of every step you've taken to clean the data and analyze it. The data dictionary is a reference file which will explain what the headers mean, along with any codes. This will be helpful in recreating your work. 
 2. Create a pivot table to group by city to find misspellings. Run integrity checks on any text field that will be part of your analysis. Filters can also be a way to get a quick read of data cleanliness, which is useful when estimating the time needed to clean and analyze a data set.
 3. Create a new clean_city column, and copy+paste city column into it. Filter to find Chicago misspellings, fix manually (bulk find-replace). Look for other cities too. Google Refine can also come in handy for cleaning names or addresses in bulk.  
 4. Do a similar pivot table on similar names and addresses. What do you see? Names and addresses are some of the dirtiest data in government datasets. 
